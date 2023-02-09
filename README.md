@@ -1,5 +1,10 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![örnek resim](https://www.freepik.com/free-vector/vector-illustration-mountain-landscape_1215608.htm#query=illustrations&position=5&from_view=keyword)
+![örnek resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
+## Başlık
+Kod
+```
+print("Hello, World!")
+```
